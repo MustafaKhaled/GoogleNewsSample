@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google News</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorite_tag">ic_favorite_red_24dp</string>
+    <string name="non_favorite_tag">ic_favorite_border_black_24dp</string>
+    <string name="added_to_Favorite_before">You already add this post to your favorites.</string>
+</resources>
